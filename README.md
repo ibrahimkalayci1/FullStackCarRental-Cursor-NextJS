@@ -1,31 +1,49 @@
-# Neden Cursor
+    
+*** CURSOR AI ***
+*** TYPE SCRIPT KONTROLU ***
+*** STRIPE ENTEGRASYONU ***
+*** FRONTEND VE BACKEND NEXT JS ***
+*** FULL RESPONSIVE ***
+    
+     
+   ## LIBRARIES
 
-- Entegre yapay zeka desteği sayesinde projenizdeki bütün kodlara hakim bir yapay zekaya sorular sorup kod yazdırabiliyoruz.
+   - react,
+   - react-dom,
+   - next,
+   - mongoose,
+   - @stripe/stripe-js,
+   - @stripe/react-stripe-js,
+   - stripe,
+   - next-auth,
+   - bcryptjs,
+   - zod,
+   - lucide-react,
+   - zustand,
+   - date-fns,
+   - react-hook-form,
+   - hookform/resolvers,
+   - nodemailer,
+   - jsonwebtoken,
+   - react-hot-toast,
+   - clsx,
+   - tailwind-merge
+  
+    devDependencies
+    
+   - typescript,
+   - @types/node,
+   - @types/react,
+   - @types/react-dom,
+   - @tailwindcss/postcss,
+   - tailwindcss,
+   - @types/bcryptjs,
+   - @types/jsonwebtoken,
+   - @types/nodemailer,
+   - ts-node,
+   - eslint,
+   - eslint-config-next"
+   - ![CarRentalCursorNextJs](https://github.com/user-attachments/assets/fa33fe71-5a93-41b6-84db-b674edad5e07)
 
-- Projemize hakim olduğu için verdiği cevaplar normal ayrı bir yapay zeka kullanımına göre projeye daha uygun cevaplar oluyor
 
-- Ask modunda takıldığımız yerlerde sorular sorabiliyoruz
-
-- Agent modunda kod yazdırabiliyoruz
-
-- Otomatik tamamlama desteği sunuyor
-- - Yazıcağınız kodu tahmin edip gösteyior eğer tab'a basarsanız kodu kabul ediyorsunuz
-
-# Verimli kullanım
-
-1. Kurallar
-
-- Yayp zekaya kod yazdırırak proje geliştiriken en verimli sonuçlar için cursor rules ları belirlemeniz gerekir.
-- Proje geliştirme sürecinde yapılcak / yapılmayack şeyler
-- Porjede kullanılacak teknolojiler kurallarda belirlemesi gerekir
-
-2. Project Requirements Document
-
-- PRD.md içerisinde genellikle:
-  Projenin amacı
-  Hedef kullanıcılar
-  Özellikler listesi
-  Teknik gereksinimler
-  UI/UX spesifikasyonları
-  Geliştirme fazlarıs
-# FullStackCarRental-Cursor-NextJS
+     
